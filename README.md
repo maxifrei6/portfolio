@@ -7,8 +7,8 @@
 - Programming: Intro to R, Intro to Prog & SD (Python), Worldbank Data Analysis
 
 **B.S., Management & Technology (Minor: CS) | TUM - Technical University Munich (_Oct 22_-_Sep 23_)**
-- Took foundational courses in management, finance, and economics
-- Fully transitioned to a Statistics and Data Science degree
+- Took foundational courses in Management, Finance, and Economics
+- Fully transitioned to Statistics & Data Science degree
 
 ## Work Experience
 **Working Student Digital Operations Europe @ Birkenstock (_Mar 23 - Present_)**
