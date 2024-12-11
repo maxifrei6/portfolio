@@ -1,12 +1,12 @@
 #### Technical Skills: R, Python, SQL, PowerBi, Tableau
 
 ## Education			        		
-**B.S., Statistics & Data Science (Minor: CS) | LMU - Ludwig-Maximilians-Universität (_Oct 23 - Present_)**
+**B.S., Statistics & Data Science (Minor: CS) | LMU - Ludwig Maximilian University (_Oct 23 - Present_)**
 - Math: Calculus 1, Calculus 2, Linear Algebra, Logic & Discrete Structures
 - Stats: Descriptive Statistics, Probability Theory
 - Programming: Intro to R, Intro to Prog & SD (Python), Worldbank Data Analysis
 
-**B.S., Management & Technology (Minor: CS) | TUM - Technical University Munich (_Oct 22_-_Sep 23_)**
+**B.S., Management & Technology (Minor: CS) | TUM - Technical University Munich (_Oct 22 - Sep 23_)**
 - Took foundational courses in Management, Finance, and Economics
 - Fully transitioned to Statistics & Data Science degree
 
