@@ -1,4 +1,5 @@
 title: Maximilian Frei
 logo: /assets/profile.png
 #description: text below page
+show_github_link: false
 theme: jekyll-theme-minimal
